@@ -44,7 +44,7 @@ Stock price prediction is a crucial aspect of financial markets, allowing trader
 Clone the forked repository to your local machine:
 
 ```sh
-git clone https://github.com/YourUsername/StockPrice_Prediction-using-deep-learning.git
+git clone https://github.com/ShivamGupta92/StockPrice_Prediction-using-deep-learning.git
 ```
 3. Changeing working directory
 ```sh
