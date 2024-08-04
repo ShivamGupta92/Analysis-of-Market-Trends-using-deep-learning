@@ -1,12 +1,12 @@
-# Stock Price Prediction Using Deep Learning
+# Analysis of Market Trends Using Deep Learning
 
 ## Overview
 
-This project aims to predict stock prices using advanced machine learning techniques. Although primarily designed for the Indian stock market, the code can also be applied to international markets. The project involves collecting historical stock data, preprocessing it, training various machine learning models, and evaluating their performance to make accurate predictions.
+This project aims to predict stock prices and market trend using advanced machine learning techniques. Although primarily designed for the Indian stock market, the code can also be applied to international markets. The project involves collecting historical stock data, preprocessing it, training various machine learning models, and evaluating their performance to make accurate predictions.
 
 ## Importance
 
-Stock price prediction is a crucial aspect of financial markets, allowing traders, investors, and financial analysts to make informed decisions. Accurate predictions can lead to profitable trades and investments, minimizing risks and maximizing returns.
+Stock price prediction and financial trend analysis is a crucial aspect of financial markets, allowing traders, investors, and financial analysts to make informed decisions. Accurate predictions can lead to profitable trades and investments, minimizing risks and maximizing returns.
 
 ## Features
 
